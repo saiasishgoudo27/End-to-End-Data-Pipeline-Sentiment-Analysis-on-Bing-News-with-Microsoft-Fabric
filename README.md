@@ -85,26 +85,24 @@ It showcases how raw **Bing News data** can be ingested, transformed, analyzed, 
 
 ## ▶️ How to Run  
 
-1. Clone the repository  
+- Clone the repository  
  ```bash
  git clone https://github.com/<your-username>/<your-repo>.git
-2. Import the notebooks into Microsoft Fabric Workspace
-3. Configure pipeline with:
+- Import the notebooks into Microsoft Fabric Workspace
+- Configure pipeline with:
 
 Source: REST API
 Destination: Lakehouse
 
-4. Run the Data Ingestion pipeline
-5. Execute Notebooks:
+- Run the Data Ingestion pipeline
+- Execute Notebooks:
 
 Transformation Notebook
 Sentiment Analysis Notebook
 
-6. Open the Power BI dashboard (.pbix)
+- Open the Power BI dashboard (.pbix)
 Connect to Lakehouse tables
-7. (Optional) Set up scheduled refresh for automation
----
-## 📸 Screenshots
+- (Optional) Set up scheduled refresh for automation.
 
 
   
