@@ -106,27 +106,6 @@ Connect to Lakehouse tables
 
 -------
 
-## ScreenShots :
-
-<img width="1919" height="819" alt="Screenshot 2025-09-24 232819" src="https://github.com/user-attachments/assets/4800fd74-aedd-4af1-9c92-cddabb0eaf68" />
-
-<img width="1918" height="839" alt="Screenshot 2025-09-24 232854" src="https://github.com/user-attachments/assets/c179d5dc-405a-4cb1-bb58-177f6439fdfc" />
-
-<img width="1913" height="906" alt="Screenshot 2025-09-24 232938" src="https://github.com/user-attachments/assets/ce82ac46-05d2-48fc-b45f-291556077f9e" />
-
-<img width="1919" height="902" alt="Screenshot 2025-09-24 233221" src="https://github.com/user-attachments/assets/7be18716-0497-47ee-a839-b95cd393cd6d" />
-
-<img width="1918" height="915" alt="Screenshot 2025-09-24 233304" src="https://github.com/user-attachments/assets/b186bab6-eed5-4718-b1c9-dfbaa942d8c7" />
-
-<img width="1919" height="916" alt="Screenshot 2025-09-24 233327" src="https://github.com/user-attachments/assets/e290a928-3a4c-48b5-a7c4-a35b095eaac0" />
-
-<img width="1919" height="1014" alt="Screenshot 2025-09-22 150329" src="https://github.com/user-attachments/assets/94534391-b314-4c5c-adc7-7108c79d4949" />
-
--------
-## Dashboard:
-
-<img width="1328" height="739" alt="Screenshot 2025-09-22 155949" src="https://github.com/user-attachments/assets/7030cd57-9c84-4654-b729-c93b07a678e4" />
-
 
 
 
