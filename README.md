@@ -4,15 +4,33 @@
 This project demonstrates a complete **data engineering pipeline** built using **Microsoft Fabric**.  
 It showcases how raw **Bing News data** can be ingested, transformed, analyzed, and visualized into **actionable insights** through an automated workflow.  
 
----
+## 📌 Problem Statement  
+In today’s digital era, organizations are overwhelmed with massive volumes of **unstructured news data** generated every second. Without automation, this creates several challenges:  
 
-## 🌟 Key Highlights  
-- ⚡ Resource provisioning and Fabric capacity setup  
-- 🌐 Data ingestion via REST API (Bing News)  
-- 🔄 Data transformation and incremental load handling  
-- 😀 Sentiment analysis on ingested news data  
-- 🔗 Automated pipelines for orchestration  
-- 📊 Interactive Power BI dashboard for insights  
+- ⏳ **Delayed Decision-Making**: Raw data is scattered and unprocessed, slowing down business-critical insights.  
+- 📉 **Company Reputation Risks**: Negative news or public sentiment may go unnoticed, impacting brand image.  
+- 🤝 **Loss of Public Trust**: Organizations fail to respond quickly to sentiment shifts.  
+- 🔄 **Inefficient Data Handling**: Manual data collection, lack of incremental updates, and fragmented tools waste resources.  
+
+These challenges directly affect business decision-making, market competitiveness, and stakeholder trust.  
+
+## 🎯 Project Objective  
+This project provides a complete end-to-end solution using **Microsoft Fabric** to overcome the above challenges by:  
+
+- **Resource Setup 🏗️** – Provisioning **Azure Resource Group**, Fabric **capacity**, and a dedicated **workspace**.  
+- **Automated Data Ingestion 📥** – Integrating **Bing News REST API** into pipelines and storing results in a **Lakehouse** (JSON, Tables, CSVs).  
+- **Data Transformation 🔧** – Cleaning, structuring, and implementing **incremental load mechanisms** via notebooks.  
+- **Sentiment Analysis 🧠** – Applying **NLP techniques** to classify news as **Positive, Negative, or Neutral**, enabling organizations to track public opinion.  
+- **Pipeline Orchestration 🔄** – Automating workflows by connecting multiple notebooks in **pipelines** with scheduling for real-time or batch updates.  
+- **Business Insights 📊** – Delivering **decision-ready insights** through an interactive **Power BI dashboard** (trends, keyword analysis, regional sentiment).  
+
+## ✅ Outcome  
+A **scalable, automated system** that transforms raw unstructured news data into actionable insights, helping organizations:  
+
+- Make faster **data-driven decisions**  
+- Protect **company reputation**  
+- Maintain **public trust**  
+
 
 ---
 
